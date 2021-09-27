@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    text-decoration: none;
+    vertical-align: default;
+    font-family: Arial, sans-serif;
+}
+
+ul{
+    list-style: none;
+}
+
+body{
+    line-height: 1;
+}
