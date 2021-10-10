@@ -14,7 +14,7 @@ As this should just be a webpage there should not be installation required. The 
 
 
 ## Usage
-![screenshot of website](./assets/images/ReadmeScreenshot.PNG)
+![screenshot of website](./assets/ReadmeScreenshot.PNG)
 
 ## License
 Copyright (c) [2021] [David Clegg]
